@@ -11,10 +11,15 @@ For more please visit [webmaster](http://www.webmasterturk.com/ "webmaster") blo
 
 ## Türkçe:
 
-# Ücretsiz Bootstrap CSS Temasý
+# Ücretsiz Bootstrap CSS Tema
 
-Daha fazlasý için [webmaster](http://www.webmasterturk.com/ "webmaster") blog!
+Daha fazlasi için [webmaster](http://www.webmasterturk.com/ "webmaster") blog!
 
 
-* Dilediðiniz gibi kullanabileceðiniz ücretsiz bootstrap css/html sözlük temasý. 
+* Dilediginiz gibi kullanabileceginiz ücretsiz bootstrap css/html sözlük temasi. 
 * Mobil uyumluluk! 
+
+--------------------------------------------------------------------
+
+# Demo
+# http://onizleme.webmasterturk.com/sozluk/
